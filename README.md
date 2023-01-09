@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: try your luck.
 - ⚡ Fun fact: Competitive art used to be an Olympic sport.
+- Site: TySzwech.github.io 
 
